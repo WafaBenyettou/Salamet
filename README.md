@@ -72,81 +72,7 @@ you review the site [here](http://salamet.herokuapp.com/)
     <li class="has-line-data" data-line-start="51" data-line-end="52">Start Babel in watch mode (for backend)</li>
     <li class="has-line-data" data-line-start="52" data-line-end="54">Start nodemon</li>
   </ul>
-  <h3 class="code-line" data-line-start=54 data-line-end=55><a id="File_Structure_54"></a>File Structure</h3>
-  <pre><code class="has-line-data" data-line-start="57" data-line-end="131">MERN-stack-build-template
-│
-├── backend
-│   │
-│   ├── database
-│   │   │
-│   │   ├── crud.js
-│   │   ├── index.js
-│   │   ├── seeder.js
-│   │   ├── URI.js
-│   │   └── utils.js
-│   │
-│   ├── doc
-│   │   │
-│   │   ├── docController.js
-│   │   ├── docModel.js
-│   │   └── docRouter.js
-│   │
-│   └── server
-│       │
-│       └── index.js
-│
-├── client
-│   │
-│   ├── public
-│   │   │
-│   │   ├── bundle.js
-│   │   └── index.html
-│   │
-│   └── src
-│       │
-│       ├── components
-│       │   │
-│       │   └── App.jsx
-│       │
-│       ├── index.jsx
-│       └── style.css
-│
-├── dist (same as backend, but compiled by Babel)
-│   │
-│   ├── database
-│   │   │
-│   │   ├── crud.js
-│   │   ├── index.js
-│   │   ├── seeder.js
-│   │   ├── URI.js
-│   │   └── utils.js
-│   │
-│   ├── doc
-│   │   │
-│   │   ├── docController.js
-│   │   ├── docModel.js
-│   │   └── docRouter.js
-│   │
-│   └── server
-│       │
-│       └── index.js
-│
-├── node_modules
-│
-├── .babelrc
-│
-├── .gitignore
-│
-├── package-lock.json
-│
-├── package.json
-│
-├── README.md
-│
-├── TODO
-│
-└── webpack.config.js
-</code></pre>
+ 
   <h3 class="code-line" data-line-start=132 data-line-end=133><a id="npm_132"></a>npm</h3>
   <ul>
     <li class="has-line-data" data-line-start="133" data-line-end="134">npm modules will install automatically</li>
@@ -178,17 +104,12 @@ you review the site [here](http://salamet.herokuapp.com/)
   <hr>
   <h1 class="code-line" data-line-start=158 data-line-end=159><a id="Author_158"></a><strong>Author</strong></h1>
   <ul>
-    <li class="has-line-data" data-line-start="160" data-line-end="161"><strong>Kent Warren</strong> - <a href="https://github.com/WarrenMfg" target="_blank">GitHub</a></li>
-    <li class="has-line-data" data-line-start="161" data-line-end="162"><strong>The Art of Warren</strong> - <a href="https://kent-warren.bss.design/" target="_blank">Portfolio</a></li>
+    <li class="has-line-data" data-line-start="160" data-line-end="161"><strong>Wafa</strong> 
+    <li class="has-line-data" data-line-start="161" data-line-end="162"><strong>Chahine</strong>
   </ul>
   <h2 class="code-line" data-line-start=164 data-line-end=165><a id="Acknowledgments_164"></a>Acknowledgments</h2>
   <ul>
     <li class="has-line-data" data-line-start="165" data-line-end="167"><strong>Scott Moss</strong> - <a href="https://github.com/Hendrixer" target="_blank">GitHub</a> - For the backend workflow concepts taught on <a href="https://frontendmasters.com/" target="_blank">Frontend Masters</a></li>
   </ul>
-  <h1 class="code-line" data-line-start=167 data-line-end=168><a id="License_167"></a><strong>License</strong></h1>
-  <h2 class="code-line" data-line-start=169 data-line-end=170><a id="MIT_169"></a>MIT</h2>
-  <p class="has-line-data" data-line-start="170" data-line-end="171">Copyright 2020 Kenneth Warren</p>
-  <p class="has-line-data" data-line-start="172" data-line-end="173">Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
-  <p class="has-line-data" data-line-start="174" data-line-end="175">The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
-  <p class="has-line-data" data-line-start="176" data-line-end="177">THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+
 </body>
