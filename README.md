@@ -20,20 +20,10 @@ you review the site [here](http://salamet.herokuapp.com/)
     <li class="has-line-data" data-line-start="12" data-line-end="13">MongoDB</li>
     <li class="has-line-data" data-line-start="13" data-line-end="14">Mongoose</li>
     <li class="has-line-data" data-line-start="14" data-line-end="16">Express
-      <ul>
-        <li class="has-line-data" data-line-start="15" data-line-end="16">morgan</li>
-      </ul>
+      
     </li>
     <li class="has-line-data" data-line-start="16" data-line-end="17">React</li>
     <li class="has-line-data" data-line-start="17" data-line-end="18">Node</li>
-    <li class="has-line-data" data-line-start="18" data-line-end="21">webpack
-      <ul>
-        <li class="has-line-data" data-line-start="19" data-line-end="20">css-loader</li>
-        <li class="has-line-data" data-line-start="20" data-line-end="21">style-loader</li>
-      </ul>
-    </li>
-    <li class="has-line-data" data-line-start="21" data-line-end="22">Babel</li>
-    <li class="has-line-data" data-line-start="22" data-line-end="24">nodemon</li>
   </ul>
   <hr>
   <h1 class="code-line" data-line-start=26 data-line-end=27><a id="Getting_Started_26"></a><strong>Getting Started</strong></h1>
