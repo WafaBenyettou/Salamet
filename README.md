@@ -24,6 +24,7 @@ you review the site [here](http://salamet.herokuapp.com/)
     </li>
     <li class="has-line-data" data-line-start="16" data-line-end="17">React</li>
     <li class="has-line-data" data-line-start="17" data-line-end="18">Node</li>
+    </li>
   </ul>
   <hr>
   <h1 class="code-line" data-line-start=26 data-line-end=27><a id="Getting_Started_26"></a><strong>Getting Started</strong></h1>
