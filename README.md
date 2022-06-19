@@ -180,7 +180,6 @@ you review the site [here](http://salamet.herokuapp.com/)
   <ul>
     <li class="has-line-data" data-line-start="160" data-line-end="161"><strong>Kent Warren</strong> - <a href="https://github.com/WarrenMfg" target="_blank">GitHub</a></li>
     <li class="has-line-data" data-line-start="161" data-line-end="162"><strong>The Art of Warren</strong> - <a href="https://kent-warren.bss.design/" target="_blank">Portfolio</a></li>
-    <li class="has-line-data" data-line-start="162" data-line-end="164"><strong>LinkedIn</strong> - <a href="https://www.linkedin.com/in/theartofwarren/" target="_blank">Profile</a></li>
   </ul>
   <h2 class="code-line" data-line-start=164 data-line-end=165><a id="Acknowledgments_164"></a>Acknowledgments</h2>
   <ul>
